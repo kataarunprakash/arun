@@ -1,0 +1,7 @@
+Requirements for Currency Convertor
+
+1. Core i3 or any advanced processor
+2. Windows 10
+3. Working GCC compiler 
+4. Dev Cpp editor or any editor which supports GCC compilation
+
